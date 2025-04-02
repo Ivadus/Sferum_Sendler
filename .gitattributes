@@ -1,13 +1,1 @@
 *.py linguist-language=Python
-
-* linguist-detectable=false
-*.exe linguist-detectable=false
-*.png linguist-detectable=false
-*.ico linguist-detectable=false
-*.pyc linguist-detectable=false
-*.spec linguist-detectable=false
-build/* linguist-detectable=false
-dist/* linguist-detectable=false
-*.html linguist-detectable=false
-*.tex linguist-detectable=false
-*.json linguist-detectable=false
