@@ -1,1 +1,6 @@
 *.py linguist-language=Python
+* linguist-detectable=false
+dist/* linguist-detectable=false
+settings.json linguist-detectable=false
+chat_id_example.png linguist-detectable=false
+app_icon.ico linguist-detectable=false
