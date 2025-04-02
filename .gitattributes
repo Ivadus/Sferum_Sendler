@@ -10,4 +10,4 @@ build/* linguist-detectable=false
 dist/* linguist-detectable=false
 *.html linguist-detectable=false
 *.tex linguist-detectable=false
-*.json linguist-detectable=false  # settings.json тоже не код
+*.json linguist-detectable=false
